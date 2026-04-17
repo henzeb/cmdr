@@ -1,0 +1,27 @@
+{
+    "name": "henzeb/cmdr",
+    "description": "A framework in pure bash",
+    "type": "library",
+    "keywords": [
+        "bash",
+        "cli",
+        "shell",
+        "scripts",
+        "commands",
+        "workflow",
+        "task-runner",
+        "tooling",
+        "developer-tools",
+        "team",
+        "scaffold",
+        "aliases",
+        "framework"
+    ],
+    "license": "MIT",
+    "bin": [
+        "bin/cmdr"
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}

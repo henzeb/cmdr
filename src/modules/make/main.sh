@@ -1,0 +1,1 @@
+cmdr::register::make module "Scaffold a new cmdr module"
