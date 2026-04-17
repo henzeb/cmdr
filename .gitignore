@@ -1,0 +1,11 @@
+# IDE
+.idea/
+
+# Composer
+vendor/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# cmdr local config directory (testing artifact)
+.cmdr/

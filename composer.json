@@ -1,0 +1,12 @@
+{
+    "name": "henzeb/cmdr",
+    "description": "A command runner shell utility",
+    "type": "library",
+    "license": "MIT",
+    "bin": [
+        "bin/cmdr"
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
